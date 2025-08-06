@@ -1,0 +1,5 @@
+public class AddressInSinglePrint {
+    public static void main(String[] args) {
+        System.out.println("Gulmohar Hostel,IILM UNIVERSITY,Knoeledge Parsk 3,Greater Noida");
+    }
+}
